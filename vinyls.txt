@@ -9,7 +9,7 @@ function::IsPaintjobSupport(vehicleid, paintjob) {
 			return true;
 		}
 
-		case 604: {
+		case 600, 604: {
 
 			if (paintjob == 0) {
 				return true;
