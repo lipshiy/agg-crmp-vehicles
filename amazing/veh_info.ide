@@ -13,18 +13,18 @@ cars
 410, 	manana, 	manana, 	car, 		MANANA, 	MANANA, 	null,			poorfamily,	10, 0,	0,			-1, 0.76, 0.76,	0
 411, 	infernus, 	infernus, 	car, 		INFERNUS, 	INFERNU, 	null,			executive, 	5, 	0,	0,			-1, 0.78, 0.78,	0
 412, 	voodoo, 	voodoo, 	car, 		VOODOO, 	VOODOO, 	null,			poorfamily,	10, 0,	0,			-1, 0.77, 0.77, 0
-413, 	mbactros,   mbactros,	car, 		ACTROS, 	ACTROS, 	truck,			worker,	 	6,	0,	0,			-1, 1.1, 1.1, -1
+413, 	renat,   	renat,		car, 		RENAT, 		RENAT,	 	truck,			worker,	 	6,	0,	0,			-1, 1.1, 1.1, -1
 414, 	mule, 		mule, 		car, 		MULE, 		MULE, 		van,			normal,	 	10, 0,	0,			-1, 0.95, 0.95, -1
 415, 	cheetah, 	cheetah, 	car, 		CHEETAH, 	CHEETAH, 	null,			executive, 	5, 	0,	0,			-1, 0.77, 0.77,	0
 416, 	ambulan, 	ambulan, 	car, 		AMBULAN, 	AMBULAN, 	van,			ignore,		10,	0,	0,			-1, 0.84, 0.84, -1
 417, 	leviathn, 	leviathn, 	heli, 		LEVIATHN, 	LEVIATH, 	null,			ignore,		5,	0,	0,			-1, 0.54, 0.4, -1
-418, 	fbstruck, 	fbstruck, 	car, 		FBSTR, 	    FBSTR, 	    null,			normal,		10,	0,	0,			-1, 0.84, 0.84, -1
-419, 	esperant, 	esperant, 	car, 		ESPERANT, 	ESPERAN, 	null,			normal,		10, 0,	0,			-1, 0.74, 0.74,	0
+418, 	fbstruck, 	fbstruck, 	car, 		FBSTR, 	    FBSTR, 	    null,			normal,		10,	0,	0,			-1, 0.84, 0.85 , -1
+419, 	esperant, 	esperant, 	car, 		ESPERANT, 	ESPERAN, 	null,			normal,		10, 0,	0,			-1, 0.73, 0.73,	0
 420, 	taxi, 		taxi, 		car, 		TAXI, 		TAXI, 		null,			taxi,		10, 0,	1f10,		-1, 0.85, 0.85,	0
 421, 	washing, 	washing, 	car, 		WASHING, 	WASHING, 	null,			richfamily,	10, 0,	0,			-1, 0.75, 0.75,	0
 422, 	bobcat, 	bobcat, 	car, 		BOBCAT, 	BOBCAT, 	null,			worker, 	10, 0,	0,			-1, 0.85, 0.85,	0
 423, 	mrwhoop, 	mrwhoop, 	car, 		MRWHOOP, 	WHOOPEE, 	null,			worker, 	4,	1,	0,			-1, 0.8, 0.8, -1
-424, 	bfinject, 	bfinject, 	car, 		BFINJECT, 	BFINJC, 	null, 			poorfamily, 10, 0, 0, 			-1, 0.66, 0.66, 0
+424, 	bfinject, 	bfinject, 	car, 		BFINJECT, 	BFINJC, 	null, 			poorfamily, 10, 0, 0, 			-1, 0.68, 0.68, 0
 425, 	hunter,		hunter, 	heli, 		HUNTER, 	HUNTER,		rustler, 		ignore,		10,	0,	0,			-1, 0.15, 0.66,	-1
 426, 	premier, 	premier, 	car, 		PREMIER, 	PREMIER,	null,			richfamily,	10,	0,	0,			-1, 0.75, 0.75,	0
 427, 	enforcer, 	enforcer, 	car, 		ENFORCER, 	ENFORCR, 	van,			ignore,		10,	0,	0,			-1, 1.0, 1.0, -1
