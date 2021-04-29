@@ -236,7 +236,7 @@ cars
 631, 	audirs7, 	audirs7, 	car, 		AUDIRS7, 	AUDIRS7, 	null,			normal,		10, 0,	0,			-1, 0.78, 0.78,	0
 632,	g63, 	    g63, 	    car,		MBG63,   	MBG63,  	null,			richfamily,	6,	7,	0,			-1, 0.92, 0.92, 0
 633,	lurus, 	    lurus, 	    car,		LURUS,   	LURUS,  	null,			richfamily,	6,	7,	0,			-1, 0.82, 0.82, 0
-634, 	x5br,    	x5br,   	car,		LANDSTAL, 	LANDSTAL, 	null,			richfamily,	6,	7,	0,			-1, 1.05, 1.05, 0
+634,	humh1,    	humh1,   	car,		HUMH1, 		HUMH1, 		null,			richfamily,	6,	7,	0,			-1, 0.95, 0.95, 0
 635,	octavia3,   octavia3,   car,		OCTAVIA3,  	OCTAVIA3,  	null,			richfamily,	6,	7,	0,			-1, 0.72, 0.72, 0
 636,	mbgbrabus,  mbgbrabus, 	car,		HUNTLEY, 	HUNTLEY, 	null,			richfamily,	6,	7,	0,			-1, 1.05, 1.05, 0
 637,    bentayga,   bentayga,   car,		BENTA,   	BENTA,  	null,			richfamily,	6,	7,	0,			-1, 0.91, 0.91, 0
