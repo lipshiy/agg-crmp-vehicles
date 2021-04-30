@@ -231,7 +231,7 @@ cars
 626, 	lvesta, 	lvesta, 	car, 		VESTAS, 	VESTAS, 	null,			normal,		10, 0,	0,			-1, 0.81, 0.81,	0
 627, 	bmwe34, 	bmwe34, 	car, 		BMWE34, 	BMWE34, 	null,			normal,		6,  7,	0,	    	-1, 0.70, 0.70,	0
 628, 	tlc200, 	tlc200, 	car, 		TLC200, 	TLC200, 	null,			normal,		6,  7,	0,	    	-1, 0.93, 0.93,	0
-629, 	kalina2, 	kalina2, 	car, 		LKALINA, 	LKALINA, 	null,			normal,		10, 0,	0,			-1, 0.72, 0.72,	0
+629, 	bathroom, 	bathroom, 	car, 		KART, 		KART,		KART,			ignore,		4,	0,	0,			-1, 0.26, 0.26,	-1
 630, 	bmwi8, 	    bmwi8, 	    car, 		BMWI8, 	    BMWI8,  	null,			normal,		10, 0,	0,			-1, 0.73, 0.73,	0
 631, 	audirs7, 	audirs7, 	car, 		AUDIRS7, 	AUDIRS7, 	null,			normal,		10, 0,	0,			-1, 0.78, 0.78,	0
 632,	g63, 	    g63, 	    car,		MBG63,   	MBG63,  	null,			richfamily,	6,	7,	0,			-1, 0.92, 0.92, 0
