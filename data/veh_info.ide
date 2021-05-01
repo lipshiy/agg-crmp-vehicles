@@ -19,7 +19,7 @@ cars
 416, 	ambulan, 	ambulan, 	car, 		AMBULAN, 	AMBULAN, 	van,			ignore,		10,	0,	0,			-1, 0.84, 0.84, -1
 417, 	leviathn, 	leviathn, 	heli, 		LEVIATHN, 	LEVIATH, 	null,			ignore,		5,	0,	0,			-1, 0.54, 0.4, -1
 418, 	fbstruck, 	fbstruck, 	car, 		FBSTR, 	    FBSTR, 	    null,			normal,		10,	0,	0,			-1, 0.84, 0.85 , -1
-419, 	esperant, 	esperant, 	car, 		ESPERANT, 	ESPERAN, 	null,			normal,		10, 0,	0,			-1, 0.73, 0.73,	0
+419, 	esperant, 	esperant, 	car, 		ESPERANT, 	ESPERAN, 	null,			normal,		10, 0,	0,			-1, 0.71, 0.71,	0
 420, 	taxi, 		taxi, 		car, 		TAXI, 		TAXI, 		null,			taxi,		10, 0,	1f10,		-1, 0.85, 0.85,	0
 421, 	washing, 	washing, 	car, 		WASHING, 	WASHING, 	null,			richfamily,	10, 0,	0,			-1, 0.75, 0.75,	0
 422, 	bobcat, 	bobcat, 	car, 		BOBCAT, 	BOBCAT, 	null,			worker, 	10, 0,	0,			-1, 0.85, 0.85,	0
